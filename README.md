@@ -104,7 +104,7 @@ sns.boxplot(x='sepal_width',data=delid)
 
 ![image](https://github.com/dharani18p/exno1/assets/118343366/ceb2beac-5914-4185-b6ae-92e73d17ed62)
 
-```
+
 
 # Z SCORE
 ```
@@ -157,7 +157,6 @@ z
 ```
 
 ![image](https://github.com/dharani18p/exno1/assets/118343366/36d16b41-3aab-47ee-bd51-0d6a9904d5a2)
-```
 
 
 
