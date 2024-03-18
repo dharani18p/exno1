@@ -149,7 +149,7 @@ df1 = df[((df['height'] >=low)& (df['height'] <=high))]
 df1
 ```
 
-![image](https://github.com/dharani18p/exno1/assets/118343366/fcb29c3e-f86d-4a0f-9b2a-2efbcd66ed46)
+![image](https://github.com/dharani18p/exno1/assets/118343366/7de0d327-84f3-43b1-a1cc-37f8826eb51c)
 
 
 ```
