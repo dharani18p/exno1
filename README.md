@@ -149,14 +149,16 @@ df1 = df[((df['height'] >=low)& (df['height'] <=high))]
 df1
 ```
 
-![image](https://github.com/dharani18p/exno1/assets/118343366/74406bf5-8682-4eca-b5d5-b88a48fb45a1)
+![image](https://github.com/dharani18p/exno1/assets/118343366/fcb29c3e-f86d-4a0f-9b2a-2efbcd66ed46)
+
 
 ```
 z = np.abs(stats.zscore(df['height']))
 z
 ```
 
-![image](https://github.com/dharani18p/exno1/assets/118343366/36d16b41-3aab-47ee-bd51-0d6a9904d5a2)
+![image](https://github.com/dharani18p/exno1/assets/118343366/5dbba1a4-2e4c-4871-a9e4-dc6fee814c83)
+
 
 
 
